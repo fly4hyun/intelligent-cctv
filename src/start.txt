@@ -1,0 +1,41 @@
+
+
+
+
+
+
+conda create --name cctv_ai python==3.12.7
+conda activate cctv_ai
+
+pip install ultralytics==8.3.39
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
+pip uninstall torchvision
+pip install torchvision --index-url https://download.pytorch.org/whl/cu118
+
+
+pip install shapely==2.0.6
+
+
+C:\Windows\System32
+에
+openh264-1.8.0-win64.dll
+파일 복사
+https://team.ebut.co.kr/5d7e6ecb-021a-4477-91af-71b5cb5f93be
+
+
+FFmpeg 설치
+경로 : C:/Program Files/ffmpeg/bin/ffmpeg.exe
+환경 변수 : C:/Program Files/ffmpeg/bin
+
+
+
+pip install PyQt5
+pip install pyinstaller
+
+pyinstaller --windowed --onefile --name KISA_AIAGI --hidden-import cv2 --hidden-import ultralytics gui_main.py
+
+
+
+
+
