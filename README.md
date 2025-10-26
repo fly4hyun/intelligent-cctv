@@ -43,8 +43,3 @@
 [https://www.ksecurity.or.kr/user/extra/kisis/94/certification/certificationView2/jsp/LayOutPage.do?setIdx=2&dataIdx=2339&selField=&searchDivision=&column&search=](https://www.ksecurity.or.kr/user/extra/kisis/94/certification/certificationView2/jsp/LayOutPage.do?setIdx=2&dataIdx=2339&selField=&searchDivision=&column&search=)
 
 ---
-
-## Notes on Disclosure
-
-본 프로젝트는 **KISA 평가 기반 프로젝트로 코드·영상은 비공개**합니다.
-요청 시 구조/동작 원리/성능지표 수준으로만 공개 가능합니다.
